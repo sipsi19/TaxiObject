@@ -1,0 +1,7 @@
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\obj\Debug\TaxiObject.csprojAssemblyReference.cache
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\obj\Debug\TaxiObject.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\bin\Debug\TaxiObject.exe.config
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\bin\Debug\TaxiObject.exe
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\bin\Debug\TaxiObject.pdb
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\obj\Debug\TaxiObject.exe
+D:\AMIKOM\SEMESTER 2\Pemrograman\TaxiObject\TaxiObject01\TaxiObject\obj\Debug\TaxiObject.pdb
